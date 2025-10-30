@@ -4,7 +4,7 @@ Instructions to set up files from Github is Below.
 
 All files can be found on Github.
 
-Copy Link and paste into browser "https://github.com/XLR8-T100/Build-Your-Own-Portfolio-Assignment.git".
+Copy Link and paste into browser "https://github.com/XLR8-T100/The-Landing-Page".
 
 Open Terminal and type "git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY"
 
